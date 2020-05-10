@@ -1,0 +1,88 @@
+Num,Channel,Programming
+101,BBC One,Entertainment
+102,BBC Two,Entertainment
+103,ITV1,Entertainment
+104,Channel 4,Entertainment (S4C in Wales)
+105,Channel 5,Entertainment
+106,BBC Three,Entertainment
+107,BBC Four,Entertainment
+108,BBC One HD,Entertainment – High Definition
+109,BBC Two HD,Entertainment – High Definition
+110,BBC Alba,Scotland – Gaelic Language
+112,ITV1 +1,Timeshift service (England & Wales only)
+113,ITV2,Entertainment
+114,ITV2 +1,Entertainment (timeshift)
+115,ITV3,Entertainment
+116,ITV3 +1,Entertainment (timeshift)
+117,ITV4,Entertainment
+118,ITV4 +1,Entertainment (timeshift)
+119,ITV1 HD,Entertainment – HD (England & Wales only)
+120,S4C Digidol (Wales),Entertainment
+121,Channel 4 + 1,Entertainment (timeshift)
+122,E4,Entertainment
+123,E4 +1,Entertainment
+124,More4,Entertainment
+125,More4 +1,Entertainment
+126,Channel 4 HD,Entertainment – HD
+127,4 Seven,Entertainment (Channel 4 repeats)
+128,Channel 5 + 1,Entertainment (timeshift)
+129,5USA,Entertainment
+130,5USA +1,Entertainment (timeshift)
+131,5*,Entertainment
+132,5* +1,Entertainment (timeshift)
+134,CBS Drama,Entertainment
+135,CBS Reality,Entertainment
+136,CBS Reality +1,Entertainment
+137,CBS Action,Entertainment
+138,Horror Channel,Entertainment
+139,Horror Channel +1,Entertainment
+140,BET Black Entertainment TV,Entertainment
+141,BET + 1,Entertainment
+142,True Entertainment,Entertainment
+143,Men & Movies,Entertainment
+144,Pick TV,Entertainment
+145,Challenge,Entertainment
+200,BBC News,News
+201,BBC Parliament,News
+202,Sky News,News
+203,Al Jazeera English,News
+204,EuroNews,News
+205,France 24,News
+206,RT Russia Today,News
+207,CNN International,News
+208,Bloomberg TV,Finance News
+209,NHK World HD,News from Japan – HD
+210,CNBC Europe,Finance News
+211,CCTV News,News (China Central Television)
+300,Film4,Movies
+301,Film4 +1,Movies
+302,True Movies 1,Movies
+303,True Movies 2,Movies
+304,Movies4Men,Movies
+305,Movies4Men + 1,Movies
+308,UMP Movies,Movies
+400,Showcase TV,Lifestyle
+401,Information TV,Lifestyle
+403,Food Network,Lifestyle
+404,Food Network +1,Lifestyle
+407,Fashion 1,Lifestyle
+408,The Active Channel,Lifestyle
+500,Chart Show TV,Music
+501,The Vault,Music
+502,Flava,Music
+503,Scuzz,Music
+504,B4U Music,Music
+506,Bliss,Music
+509,Zing,Music
+510,Clubland TV,Music
+511,Massive R&B,Music
+515,Vintage TV,Over 50’s
+516,Heart TV,Music
+517,Capital,Music
+600,CBBC,Kids
+601,CBeebies,Kids
+602,CITV,Kids
+603,POP,Kids
+604,POP Girl,Kids
+605,Tiny Pop,Kids
+606,Kix,Kids

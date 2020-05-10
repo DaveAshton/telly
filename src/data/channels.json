@@ -1,0 +1,437 @@
+[
+    {
+      "num": 101,
+      "channel": "BBC One",
+      "description": "Entertainment"
+    },
+    {
+      "num": 102,
+      "channel": "BBC Two",
+      "description": "Entertainment"
+    },
+    {
+      "num": 103,
+      "channel": "ITV1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 104,
+      "channel": "Channel 4",
+      "description": "Entertainment (S4C in Wales)"
+    },
+    {
+      "num": 105,
+      "channel": "Channel 5",
+      "description": "Entertainment"
+    },
+    {
+      "num": 106,
+      "channel": "BBC Three",
+      "description": "Entertainment"
+    },
+    {
+      "num": 107,
+      "channel": "BBC Four",
+      "description": "Entertainment"
+    },
+    {
+      "num": 108,
+      "channel": "BBC One HD",
+      "description": "Entertainment – High Definition"
+    },
+    {
+      "num": 109,
+      "channel": "BBC Two HD",
+      "description": "Entertainment – High Definition"
+    },
+    {
+      "num": 110,
+      "channel": "BBC Alba",
+      "description": "Scotland – Gaelic Language"
+    },
+    {
+      "num": 112,
+      "channel": "ITV1 +1",
+      "description": "Timeshift service (England & Wales only)"
+    },
+    {
+      "num": 113,
+      "channel": "ITV2",
+      "description": "Entertainment"
+    },
+    {
+      "num": 114,
+      "channel": "ITV2 +1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 115,
+      "channel": "ITV3",
+      "description": "Entertainment"
+    },
+    {
+      "num": 116,
+      "channel": "ITV3 +1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 117,
+      "channel": "ITV4",
+      "description": "Entertainment"
+    },
+    {
+      "num": 118,
+      "channel": "ITV4 +1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 119,
+      "channel": "ITV1 HD",
+      "description": "Entertainment – HD (England & Wales only)"
+    },
+    {
+      "num": 120,
+      "channel": "S4C Digidol (Wales)",
+      "description": "Entertainment"
+    },
+    {
+      "num": 121,
+      "channel": "Channel 4 + 1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 122,
+      "channel": "E4",
+      "description": "Entertainment"
+    },
+    {
+      "num": 123,
+      "channel": "E4 +1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 124,
+      "channel": "More4",
+      "description": "Entertainment"
+    },
+    {
+      "num": 125,
+      "channel": "More4 +1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 126,
+      "channel": "Channel 4 HD",
+      "description": "Entertainment – HD"
+    },
+    {
+      "num": 127,
+      "channel": "4 Seven",
+      "description": "Entertainment (Channel 4 repeats)"
+    },
+    {
+      "num": 128,
+      "channel": "Channel 5 + 1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 129,
+      "channel": "5USA",
+      "description": "Entertainment"
+    },
+    {
+      "num": 130,
+      "channel": "5USA +1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 131,
+      "channel": "5*",
+      "description": "Entertainment"
+    },
+    {
+      "num": 132,
+      "channel": "5* +1",
+      "description": "Entertainment (timeshift)"
+    },
+    {
+      "num": 134,
+      "channel": "CBS Drama",
+      "description": "Entertainment"
+    },
+    {
+      "num": 135,
+      "channel": "CBS Reality",
+      "description": "Entertainment"
+    },
+    {
+      "num": 136,
+      "channel": "CBS Reality +1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 137,
+      "channel": "CBS Action",
+      "description": "Entertainment"
+    },
+    {
+      "num": 138,
+      "channel": "Horror Channel",
+      "description": "Entertainment"
+    },
+    {
+      "num": 139,
+      "channel": "Horror Channel +1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 140,
+      "channel": "BET Black Entertainment TV",
+      "description": "Entertainment"
+    },
+    {
+      "num": 141,
+      "channel": "BET + 1",
+      "description": "Entertainment"
+    },
+    {
+      "num": 142,
+      "channel": "True Entertainment",
+      "description": "Entertainment"
+    },
+    {
+      "num": 143,
+      "channel": "Men & Movies",
+      "description": "Entertainment"
+    },
+    {
+      "num": 144,
+      "channel": "Pick TV",
+      "description": "Entertainment"
+    },
+    {
+      "num": 145,
+      "channel": "Challenge",
+      "description": "Entertainment"
+    },
+    {
+      "num": 200,
+      "channel": "BBC News",
+      "description": "News"
+    },
+    {
+      "num": 201,
+      "channel": "BBC Parliament",
+      "description": "News"
+    },
+    {
+      "num": 202,
+      "channel": "Sky News",
+      "description": "News"
+    },
+    {
+      "num": 203,
+      "channel": "Al Jazeera English",
+      "description": "News"
+    },
+    {
+      "num": 204,
+      "channel": "EuroNews",
+      "description": "News"
+    },
+    {
+      "num": 205,
+      "channel": "France 24",
+      "description": "News"
+    },
+    {
+      "num": 206,
+      "channel": "RT Russia Today",
+      "description": "News"
+    },
+    {
+      "num": 207,
+      "channel": "CNN International",
+      "description": "News"
+    },
+    {
+      "num": 208,
+      "channel": "Bloomberg TV",
+      "description": "Finance News"
+    },
+    {
+      "num": 209,
+      "channel": "NHK World HD",
+      "description": "News from Japan – HD"
+    },
+    {
+      "num": 210,
+      "channel": "CNBC Europe",
+      "description": "Finance News"
+    },
+    {
+      "num": 211,
+      "channel": "CCTV News",
+      "description": "News (China Central Television)"
+    },
+    {
+      "num": 300,
+      "channel": "Film4",
+      "description": "Movies"
+    },
+    {
+      "num": 301,
+      "channel": "Film4 +1",
+      "description": "Movies"
+    },
+    {
+      "num": 302,
+      "channel": "True Movies 1",
+      "description": "Movies"
+    },
+    {
+      "num": 303,
+      "channel": "True Movies 2",
+      "description": "Movies"
+    },
+    {
+      "num": 304,
+      "channel": "Movies4Men",
+      "description": "Movies"
+    },
+    {
+      "num": 305,
+      "channel": "Movies4Men + 1",
+      "description": "Movies"
+    },
+    {
+      "num": 308,
+      "channel": "UMP Movies",
+      "description": "Movies"
+    },
+    {
+      "num": 400,
+      "channel": "Showcase TV",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 401,
+      "channel": "Information TV",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 403,
+      "channel": "Food Network",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 404,
+      "channel": "Food Network +1",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 407,
+      "channel": "Fashion 1",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 408,
+      "channel": "The Active Channel",
+      "description": "Lifestyle"
+    },
+    {
+      "num": 500,
+      "channel": "Chart Show TV",
+      "description": "Music"
+    },
+    {
+      "num": 501,
+      "channel": "The Vault",
+      "description": "Music"
+    },
+    {
+      "num": 502,
+      "channel": "Flava",
+      "description": "Music"
+    },
+    {
+      "num": 503,
+      "channel": "Scuzz",
+      "description": "Music"
+    },
+    {
+      "num": 504,
+      "channel": "B4U Music",
+      "description": "Music"
+    },
+    {
+      "num": 506,
+      "channel": "Bliss",
+      "description": "Music"
+    },
+    {
+      "num": 509,
+      "channel": "Zing",
+      "description": "Music"
+    },
+    {
+      "num": 510,
+      "channel": "Clubland TV",
+      "description": "Music"
+    },
+    {
+      "num": 511,
+      "channel": "Massive R&B",
+      "description": "Music"
+    },
+    {
+      "num": 515,
+      "channel": "Vintage TV",
+      "description": "Over 50’s"
+    },
+    {
+      "num": 516,
+      "channel": "Heart TV",
+      "description": "Music"
+    },
+    {
+      "num": 517,
+      "channel": "Capital",
+      "description": "Music"
+    },
+    {
+      "num": 600,
+      "channel": "CBBC",
+      "description": "Kids"
+    },
+    {
+      "num": 601,
+      "channel": "CBeebies",
+      "description": "Kids"
+    },
+    {
+      "num": 602,
+      "channel": "CITV",
+      "description": "Kids"
+    },
+    {
+      "num": 603,
+      "channel": "POP",
+      "description": "Kids"
+    },
+    {
+      "num": 604,
+      "channel": "POP Girl",
+      "description": "Kids"
+    },
+    {
+      "num": 605,
+      "channel": "Tiny Pop",
+      "description": "Kids"
+    },
+    {
+      "num": 606,
+      "channel": "Kix",
+      "description": "Kids"
+    }
+  ]
